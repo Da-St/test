@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-// second change in this class for testing git
+// change in this class for testing git function pull
 public class MainActivity extends Activity {
 
 	@Override
