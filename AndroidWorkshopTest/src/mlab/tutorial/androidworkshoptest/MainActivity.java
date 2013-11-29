@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+// a change in this class for testing git
 public class MainActivity extends Activity {
 
 	@Override
